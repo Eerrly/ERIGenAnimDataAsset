@@ -1,1 +1,3 @@
 ERIGenAnimDataAsset
+
+从FBX生成anim文件以及asset文件，记录了 动画长度，不同时间段的动画的位置、旋转信息，以及动画事件
